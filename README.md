@@ -16,6 +16,6 @@ To use this Study Guide, you can review the notes in each section. For suggestio
 
 N/A
 
-##License
+## License
 
 Please refer to the License in the repo.
